@@ -52,6 +52,15 @@ body{
     cursor: pointer;
     font-size: 20px;
 }
+
+h1{
+    color: #585858;
+    margin-bottom: 10px;
+}
+
+.yello {
+    color: #0000EE;
+}
 #chek {
     /* border-radius: 50%; */
     height: 14px;
