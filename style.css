@@ -14,14 +14,18 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    width: 750px;
+    width: 680px;
     margin: 0 auto;
 }
 
 .login-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
     /* background-color: #fff; */
     border: 1px solid #fff;
-    padding: 30px 40px;
+    padding: 0px 40px;
     border-radius: 10px;
     box-shadow: 1px 1px 20px #575757;
 }
@@ -52,7 +56,9 @@ body{
     cursor: pointer;
     font-size: 20px;
 }
-
+.rigth {
+    margin-right: 94px;
+}
 h1{
     color: #585858;
     margin-bottom: 10px;
